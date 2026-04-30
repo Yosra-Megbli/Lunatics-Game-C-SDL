@@ -9,11 +9,11 @@
 
 | Main Menu | Gameplay |
 |:---------:|:--------:|
-| ![Main Menu](screenshots/screenshot_01_menu.jpg) | ![Gameplay](screenshots/screenshot_05_gameplay.jpg) |
+| ![Main Menu](screenshot_01_menu.jpg) | ![Gameplay](screenshots/screenshot_05_gameplay.jpg) |
 
 | Settings | Controllers | New Game |
 |:--------:|:-----------:|:--------:|
-| ![Settings](screenshots/screenshot_02_settings.jpg) | ![Controllers](screenshots/screenshot_03_controls.jpg) | ![New Game](screenshots/screenshot_04_newgame.jpg) |
+| ![Settings](screenshot_02_settings.jpg) | ![Controllers](screenshot_03_controls.jpg) | ![New Game](screenshot_04_newgame.jpg) |
 
 ---
 
