@@ -9,7 +9,7 @@
 
 | Main Menu | Gameplay |
 |:---------:|:--------:|
-| ![Main Menu](screenshot_01_menu.jpg) | ![Gameplay](screenshots/screenshot_05_gameplay.jpg) |
+| ![Main Menu](screenshot_01_menu.jpg) | ![Gameplay](screenshot_05_gameplay.jpg) |
 
 | Settings | Controllers | New Game |
 |:--------:|:-----------:|:--------:|
